@@ -2,7 +2,7 @@ app:
   replicaCount: 1
 
   image:
-    repository: ghcr.io/amine7536/akpe-backend-2
+    repository: ghcr.io/doublurehq/demo-backend-2
     tag: ""
     pullPolicy: IfNotPresent
 
